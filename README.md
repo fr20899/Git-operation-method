@@ -1,5 +1,5 @@
 
-## test vscode
+## vscode 编辑 markdown 文件夹 同步到 github 上
 ---
 1.github上建立一个Repository  
 2.git clone https://github.com/fr20899/test  
